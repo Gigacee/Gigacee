@@ -17,7 +17,7 @@
 
 ## 🎮同人作品
 
-- [https://www.gigacreation.jp/nenechii/ ねねちーのお昼ご飯大作戦ある！]
+- [ねねちーのお昼ご飯大作戦ある！](https://www.gigacreation.jp/nenechii/)
     - 企画・開発
-- [https://www.gigacreation.jp/kaechanjump/ かえちゃんジャンプ!!]
+- [かえちゃんジャンプ!!](https://www.gigacreation.jp/kaechanjump/)
     - 企画・開発
