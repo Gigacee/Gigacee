@@ -2,20 +2,23 @@
 
 ## 👤 自己紹介
 
-- フリーランスのゲームデザイナー、エンジニア、アーティストです。
-- [GIGA CREATION](https://github.com/gigacreation)という屋号で活動しており、こちらのリポジトリではゲーム開発を手助けするツールを公開しています。
+- フリーランスのゲームクリエイターです。企画からエンジニアリング、デザインまで、幅広い分野で活動しております。
+- [GIGA CREATION](https://github.com/gigacreation)という屋号で活動しており、ゲーム開発を手助けするツールを公開しています。
+- 開発実績などの詳細は、[個人サイト](https://www.gigacreation.jp/)をご参照ください。
 
 ## 🔗 リンク
 
-- [ポートフォリオ](https://www.gigacreation.jp/)
+- [個人サイト](https://www.gigacreation.jp/)
 - [ブログ](https://blog.gigacreation.jp/)
 - [GitHub](https://github.com/gigacreation)
 - [Twitter](https://twitter.com/ishida_gigacee)
-- [Wantedly](https://www.wantedly.com/id/gigacee)
+- [Bluesky](https://bsky.app/profile/gigacee.bsky.social)
 
 ## 🎮 商業作品
 
-- 『[ごっこランド](https://app.kidsstar.co.jp/code0007)』伊藤ハムパビリオン・全薬工業パビリオン
+- 『[アイドルコネクト -Asterisk Live-](https://www.idolconnect.jp/)』
+    - 開発・演出
+- 『[ごっこランド](https://www.kidsstar.co.jp/service#gokkoland)』
     - エンジニア
 
 他多数（非公開案件）
