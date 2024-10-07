@@ -20,8 +20,7 @@
     - 開発・演出
 - 『[ごっこランド](https://www.kidsstar.co.jp/service#gokkoland)』
     - エンジニア
-
-他多数（非公開案件）
+- 他多数（非公開案件）
 
 ## 🎮 同人作品
 
