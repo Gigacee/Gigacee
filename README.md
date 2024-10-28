@@ -11,7 +11,7 @@
 - [個人サイト](https://www.gigacreation.jp/)
 - [ブログ](https://blog.gigacreation.jp/)
 - [GitHub](https://github.com/gigacreation)
-- [Twitter](https://x.com/gigacee_dev)
+- [X](https://x.com/gigacee_dev)
 - [Bluesky](https://bsky.app/profile/gigacee.bsky.social)
 
 ## 🎮 商業作品
